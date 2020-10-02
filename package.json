@@ -1,0 +1,14 @@
+{
+  "name": "slightly-better-ms",
+  "version": "1.0.0",
+  "description": "ms but with better string parsing support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NorthWestWind",
+  "license": "MIT",
+  "dependencies": {
+    "ms": "^2.1.2"
+  }
+}
